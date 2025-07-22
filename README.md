@@ -1,2 +1,2 @@
-# CLIP_Search_Engine_TinyImageNet
+# A simple Search Engine on the TinyImageNet using CLIP model
 In this repository, created as part of the Deep Unsupervised Learning course at Oxford LMH, I have set up a simple search engine on the Tiny ImageNet dataset, which supports both text-to-image and image-to-image search, using OpenAI's CLIP model. More specifcally, the result of any search is comprised of the images in the dataset whose embeddings from the CLIP model have the highest cosine similarity with the given search prompt or image.
