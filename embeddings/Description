@@ -1,0 +1,1 @@
+This folder contains the .pt file with the image embeddings extracted from the TinyImageNet dataset using CLIP for easy retrieval during inference.
